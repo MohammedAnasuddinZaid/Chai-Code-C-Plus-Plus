@@ -14,15 +14,15 @@ int main(){
 
     switch(choise){
         case 1:
-            price=2.0;
+            price=7.0;
             cout << "YOUR PRICE IS" << price ;
             break;
         case 2:
-            price= 1.0;
+            price= 5.0;
             cout << "YOUR PRICE IS"<< price ;
             break;
         case 3:
-            price=0.0;
+            price=10.0;
             cout <<"YOUR PRICE IS"<< price ;
             break;
         default:
